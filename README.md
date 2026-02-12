@@ -4,13 +4,13 @@ I'm a Systems Development student at Escola SESI de referência in Brazil. I lov
 
 Here you will find my school projects coordinated by Professor Ícaro and ideas that I probably had during the wee hours of the morning.
 
-## Tools I usually 
+## Tools I usually use
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height = 40, width = 25/>](https://www.c-language.org/)   
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height = 40, width = 25 />](https://www.canva.com/pt_br/)
-<gap>
+[![My Skills](https://skillicons.dev/icons?i=c)](https://www.c-language.org/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="47" alt="canva logo"  />
+<img width="12" />
 
-## Get in touch:
+## Get in touch
 
 ![Image](https://github.com/user-attachments/assets/1862849e-2a52-4187-a3cf-8fe91ddd43b1)
 
