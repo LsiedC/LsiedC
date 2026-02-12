@@ -1,4 +1,4 @@
-# LSC001 - Lucas Siedschlag Corrêa
+# LsiedC - Lucas Siedschlag Corrêa
 
 I'm a Systems Development student at Escola SESI de referência in Brazil. I love reading about philosophy and am always looking to learn something that challenges me personally. 
 
