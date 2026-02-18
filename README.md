@@ -9,7 +9,6 @@ Here you will find all my school projects coordinated by Professor Ícaro and id
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.c-language.org/)
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/multipage/)
 
 
 ## Get in touch
